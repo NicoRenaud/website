@@ -12,9 +12,12 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Theoretical Chemistry",
+    "Electronic Structure",
+    "Real-Time TDDFT",
     "Quantum Transport",
-    "Molecular Electronics"
+    "Molecular Electronics",
+    "Charge Transfer",
+    "Solar Energy Harvesting"
   ]
 
 # List your qualifications (such as academic degrees).

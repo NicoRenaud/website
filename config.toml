@@ -1,6 +1,6 @@
 baseurl = "https://NicoRenaud.github.io/"
 title = "Nicolas Renaud"
-copyright = "&copy; 2016 Nicolas Renaud"
+copyright = "&copy; 2017 Nicolas Renaud"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

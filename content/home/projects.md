@@ -34,5 +34,9 @@ view = 1
 	name = "Electronic Structure"
 	tag = ".electronic-structure"
 
+[[filter]]
+	name = "Molecular Electronics"
+	tag = ".molecular-electronics"
+
 +++
 

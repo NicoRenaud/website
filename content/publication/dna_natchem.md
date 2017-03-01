@@ -21,7 +21,7 @@ authors = ["Nicolas Renaud1, Michelle A. Harris, Arunoday P. N. Singh, Yuri A. B
 
 [header]
   caption = "Deep hole break the speed limit"
-  image = "headers/dna_ndi.png"
+  image = "headers/dna_ndi_toc.png"
 
 +++
 
